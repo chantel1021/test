@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)https://litter73.github.io/hw1002/%E7%A8%8B%E8%AA%9E%E4%B8%80.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>作業一:</title>
+</head>
+<body style="">
+    <center>
+        <a href="https://chantel1021.github.io/test/">回首頁</a>
+    </center>
+    <table border="1" width="300" align="center">
+        <tbody><tr>
+            <td colspan="3" align="center">
+                作業:HTML表格
+            </td>
+        </tr>
+        <tr>
+            <td width="100" rowspan="3">
+                <img src="./作業一__files/saved_resource" 40"="" align="center">班級</td>
+            <td>資工二乙</td>
+        </tr>
+        <tr>
+            <td align="center">姓名</td>
+            <td>程芷瑄</td>
+        </tr>
+        <tr>
+            <td align="center">學號</td>
+            <td>1110832056</td>
+        </tr>
+    </tbody></table>
+
+
+</body></html>
